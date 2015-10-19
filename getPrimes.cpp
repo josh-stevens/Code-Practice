@@ -14,7 +14,7 @@ void getPrimes(int limit) {
 
 		// 2 is the only even prime, and since we know the limit
 		// is at least 2, we can go ahead and print it out, and
-		// then we are just dealing with odd numbers
+		// then we are just dealing with odd numbers.
 
 		cout << 2 << " ";
 
